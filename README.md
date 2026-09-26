@@ -26,8 +26,11 @@ computacionais em um fluxo único:
    probabilidade de excedência associada ao risco de *backflashover*.
 
 ## Estrutura do repositório
-├── julia/ # Rotinas de solução do HEM e extração de Zp
-├── atpdraw/ # Arquivos de simulação (.acp/.atp) do estudo de caso
-├── matlab/ # Rotina de aplicação do Método do Efeito Disruptivo
-├── data/ # Parâmetros de entrada (solo, geometria, corrente de descarga)
+
+```
+├── julia/           # Rotinas de solução do HEM e extração de Zp
+├── atpdraw/         # Arquivos de simulação (.acp/.atp) do estudo de caso
+├── matlab/          # Rotina de aplicação do Método do Efeito Disruptivo
+├── data/            # Parâmetros de entrada (solo, geometria, corrente de descarga)
 └── README.md
+```
