@@ -34,3 +34,33 @@ computacionais em um fluxo único:
 ├── data/            # Parâmetros de entrada (solo, geometria, corrente de descarga)
 └── README.md
 ```
+
+## Requisitos
+
+- Julia ≥ 1.x (pacotes: [listar])
+- ATPDraw / ATP-EMTP
+- MATLAB ≥ R20XX
+
+## Como citar
+
+Se utilizar este repositório em trabalhos acadêmicos, cite:
+
+```bibtex
+@Misc{amador2026codigo,
+  author       = {Amador, Daniel},
+  title        = {Códigos para Análise de Risco de Backflashover em Linhas de Transmissão via Acoplamento HEM-ATP},
+  year         = {2026},
+  howpublished = {\url{https://github.com/seu-usuario/seu-repositorio}},
+}
+```
+
+## Créditos
+
+A implementação original do núcleo do HEM em Julia foi desenvolvida por
+[nome, conforme acordado]. Os demais scripts de acoplamento, os arquivos
+de simulação do ATPDraw e a rotina do Método do Efeito Disruptivo foram
+desenvolvidos pelo autor deste repositório.
+
+## Licença
+
+[MIT / GPL-3.0 / outra — a definir]
