@@ -91,7 +91,7 @@ Se utilizar este repositório em trabalhos acadêmicos, cite-o:
   author       = {Amador, Daniel},
   title        = {Códigos para Análise de Risco de Backflashover em Linhas de Transmissão via Acoplamento HEM-ATP},
   year         = {2026},
-  howpublished = {\url{https://github.com/seu-usuario/seu-repositorio}},
+  howpublished = {\url{https://github.com/Daniel-sntsa/Trabalho-de-Conclus-o-HEM-ATP-MATLAB}},
 }
 ```
 
